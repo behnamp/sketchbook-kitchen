@@ -13,4 +13,5 @@ nav{text-align:center;font-family:'Kalam',cursive;margin:.5em 0 1em}nav a{margin
 .recipe img{max-width:360px;width:100%;float:right;margin:0 0 12px 20px;border-radius:8px}.recipe:after{content:"";display:block;clear:both}
 table{border-collapse:collapse;width:100%;max-width:420px}td{border-bottom:1px solid var(--line);padding:3px 0}td.g{text-align:right;font-weight:bold}
 footer{font-size:.8em;color:#7a5a3a;text-align:center;border-top:1px solid var(--line)}
+.social{display:flex;gap:18px;justify-content:center;margin:14px 0 4px}.social a{color:var(--head)}.social svg{width:28px;height:28px}
 @media(max-width:640px){.recipe img{float:none;margin:0 0 12px;max-width:100%}h1{font-size:2em}}
