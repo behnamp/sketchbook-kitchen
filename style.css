@@ -8,7 +8,7 @@ nav{text-align:center;font-family:'Kalam',cursive;margin:.5em 0 1em}nav a{margin
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:24px}
 .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px;text-align:center}
 .card img{width:100%;border-radius:6px}.btn{display:inline-block;margin:6px 4px;padding:9px 16px;border-radius:999px;background:var(--head);color:#fff;text-decoration:none;font-family:'Kalam',cursive}
-.btn.alt{background:var(--acc)}.meta{font-size:.85em;color:#7a5a3a}.chapters{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px}
+.btn.alt{background:var(--acc)}.soon{display:inline-block;margin:6px 4px;padding:9px 16px;border-radius:999px;border:2px dashed var(--acc);color:var(--acc);font-family:'Kalam',cursive}.meta{font-size:.85em;color:#7a5a3a}.chapters{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:16px}
 .chapters img{width:100%;border-radius:8px}.recipe{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px;margin:24px 0}
 .recipe img{max-width:360px;width:100%;float:right;margin:0 0 12px 20px;border-radius:8px}.recipe:after{content:"";display:block;clear:both}
 table{border-collapse:collapse;width:100%;max-width:420px}td{border-bottom:1px solid var(--line);padding:3px 0}td.g{text-align:right;font-weight:bold}
